@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+dist/
+.env
+
+# Rust/Solana build artifacts
+target/
+voting_system_03/target/
+
+# OS metadata
+.DS_Store
